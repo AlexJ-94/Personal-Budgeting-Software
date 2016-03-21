@@ -1,0 +1,231 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Budgeting Project
+</name>
+</assembly>
+<members>
+<member name="T:Budgeting_Project.BudgetDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Budgeting_Project.BudgetDataSet.tblCellPhoneDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Budgeting_Project.BudgetDataSet.tblGasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Budgeting_Project.BudgetDataSet.tblInsuranceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Budgeting_Project.BudgetDataSet.tblMiscellaneousDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Budgeting_Project.BudgetDataSet.tblPetSuppliesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Budgeting_Project.BudgetDataSet.tblSavingsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Budgeting_Project.BudgetDataSet.tblSchoolLoansDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Budgeting_Project.BudgetDataSet.tblTithesOfferingsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Budgeting_Project.BudgetDataSet.tblCellPhoneRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Budgeting_Project.BudgetDataSet.tblGasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Budgeting_Project.BudgetDataSet.tblInsuranceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Budgeting_Project.BudgetDataSet.tblMiscellaneousRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Budgeting_Project.BudgetDataSet.tblPetSuppliesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Budgeting_Project.BudgetDataSet.tblSavingsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Budgeting_Project.BudgetDataSet.tblSchoolLoansRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Budgeting_Project.BudgetDataSet.tblTithesOfferingsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Budgeting_Project.BudgetDataSet.tblCellPhoneRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Budgeting_Project.BudgetDataSet.tblGasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Budgeting_Project.BudgetDataSet.tblInsuranceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Budgeting_Project.BudgetDataSet.tblMiscellaneousRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Budgeting_Project.BudgetDataSet.tblPetSuppliesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Budgeting_Project.BudgetDataSet.tblSavingsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Budgeting_Project.BudgetDataSet.tblSchoolLoansRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Budgeting_Project.BudgetDataSet.tblTithesOfferingsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Budgeting_Project.BudgetDataSetTableAdapters.tblCellPhoneTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Budgeting_Project.BudgetDataSetTableAdapters.tblGasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Budgeting_Project.BudgetDataSetTableAdapters.tblInsuranceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Budgeting_Project.BudgetDataSetTableAdapters.tblMiscellaneousTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Budgeting_Project.BudgetDataSetTableAdapters.tblPetSuppliesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Budgeting_Project.BudgetDataSetTableAdapters.tblSavingsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Budgeting_Project.BudgetDataSetTableAdapters.tblSchoolLoansTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Budgeting_Project.BudgetDataSetTableAdapters.tblTithesOfferingsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Budgeting_Project.BudgetDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Budgeting_Project.BudgetDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Budgeting_Project.BudgetDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Budgeting_Project.BudgetDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Budgeting_Project.BudgetDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Budgeting_Project.BudgetDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Budgeting_Project.BudgetDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Budgeting_Project.BudgetDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Budgeting_Project.BudgetDataSetTableAdapters.TableAdapterManager.UpdateAll(Budgeting_Project.BudgetDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Budgeting_Project.BudgetDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Budgeting_Project.BudgetDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Budgeting_Project.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Budgeting_Project.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Budgeting_Project.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,59 @@
+C:\Users\Alex\Documents\School Stuff\2014-2015 School Stuff\Business Application Development\Budgeting Project\Budgeting Project\bin\Debug\Budgeting Project.exe.config
+C:\Users\Alex\Documents\School Stuff\2014-2015 School Stuff\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting_Project.frmMain.resources
+C:\Users\Alex\Documents\School Stuff\2014-2015 School Stuff\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting_Project.Resources.resources
+C:\Users\Alex\Documents\School Stuff\2014-2015 School Stuff\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting Project.vbproj.GenerateResource.Cache
+C:\Users\Alex\Documents\School Stuff\2014-2015 School Stuff\Business Application Development\Budgeting Project\Budgeting Project\bin\Debug\Budgeting Project.exe
+C:\Users\Alex\Documents\School Stuff\2014-2015 School Stuff\Business Application Development\Budgeting Project\Budgeting Project\bin\Debug\Budgeting Project.pdb
+C:\Users\Alex\Documents\School Stuff\2014-2015 School Stuff\Business Application Development\Budgeting Project\Budgeting Project\bin\Debug\Budgeting Project.xml
+C:\Users\Alex\Documents\School Stuff\2014-2015 School Stuff\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting Project.exe
+C:\Users\Alex\Documents\School Stuff\2014-2015 School Stuff\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting Project.xml
+C:\Users\Alex\Documents\School Stuff\2014-2015 School Stuff\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting Project.pdb
+C:\Users\Alex\Documents\School Stuff\2014-2015 School Stuff\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting_Project.frmTithesOfferings.resources
+C:\Users\Alex\Documents\School Stuff\2014-2015 School Stuff\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting_Project.frmCellPhone.resources
+C:\Users\Alex\Documents\School Stuff\2014-2015 School Stuff\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting_Project.frmGas.resources
+C:\Users\Alex\Documents\School Stuff\2014-2015 School Stuff\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting_Project.frmMiscellaneous.resources
+C:\Users\Alex\Documents\School Stuff\2014-2015 School Stuff\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting_Project.frmInsurance.resources
+C:\Users\Alex\Documents\School Stuff\2014-2015 School Stuff\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting_Project.frmPetSupplies.resources
+C:\Users\Alex\Documents\School Stuff\2014-2015 School Stuff\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting_Project.frmSchoolLoans.resources
+C:\Users\Alex\Documents\School Stuff\2014-2015 School Stuff\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting_Project.frmSavings.resources
+C:\Users\Alex\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\bin\Debug\Budgeting Project.exe.config
+C:\Users\Alex\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting Project.exe
+C:\Users\Alex\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting Project.xml
+C:\Users\Alex\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting Project.pdb
+C:\Users\Alex\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\bin\Debug\Budgeting Project.exe
+C:\Users\Alex\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\bin\Debug\Budgeting Project.pdb
+C:\Users\Alex\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\bin\Debug\Budgeting Project.xml
+C:\Users\Alex\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting_Project.frmCellPhone.resources
+C:\Users\Alex\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting_Project.frmGas.resources
+C:\Users\Alex\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting_Project.frmInsurance.resources
+C:\Users\Alex\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting_Project.frmMain.resources
+C:\Users\Alex\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting_Project.frmMiscellaneous.resources
+C:\Users\Alex\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting_Project.Resources.resources
+C:\Users\Alex\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting_Project.frmPetSupplies.resources
+C:\Users\Alex\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting_Project.frmSavings.resources
+C:\Users\Alex\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting_Project.frmSchoolLoans.resources
+C:\Users\Alex\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting_Project.frmTithesOfferings.resources
+C:\Users\Alex\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting Project.vbproj.GenerateResource.Cache
+D:\Xander\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\bin\Debug\Budgeting Project.exe.config
+D:\Xander\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting Project.exe
+D:\Xander\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting Project.xml
+D:\Xander\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting Project.pdb
+D:\Xander\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\bin\Debug\Budgeting Project.exe
+D:\Xander\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\bin\Debug\Budgeting Project.pdb
+D:\Xander\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\bin\Debug\Budgeting Project.xml
+D:\Xander\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting Project.vbprojResolveAssemblyReference.cache
+D:\Xander\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting_Project.frmCellPhone.resources
+D:\Xander\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting_Project.frmGas.resources
+D:\Xander\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting_Project.frmInsurance.resources
+D:\Xander\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting_Project.frmMain.resources
+D:\Xander\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting_Project.frmMiscellaneous.resources
+D:\Xander\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting_Project.Resources.resources
+D:\Xander\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting_Project.frmPetSupplies.resources
+D:\Xander\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting_Project.frmSavings.resources
+D:\Xander\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting_Project.frmSchoolLoans.resources
+D:\Xander\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting_Project.frmTithesOfferings.resources
+D:\Xander\Documents\School Stuff\2014-2015 School Stuff\Fall Semester\Business Application Development\Budgeting Project\Budgeting Project\obj\Debug\Budgeting Project.vbproj.GenerateResource.Cache
+C:\Users\Xander\Documents\GitHub\Personal-Budgeting-Software\Budgeting Project\Budgeting Project\bin\Debug\Budgeting Project.exe.config
+C:\Users\Xander\Documents\GitHub\Personal-Budgeting-Software\Budgeting Project\Budgeting Project\obj\Debug\Budgeting Project.exe
+C:\Users\Xander\Documents\GitHub\Personal-Budgeting-Software\Budgeting Project\Budgeting Project\obj\Debug\Budgeting Project.xml
+C:\Users\Xander\Documents\GitHub\Personal-Budgeting-Software\Budgeting Project\Budgeting Project\obj\Debug\Budgeting Project.pdb
